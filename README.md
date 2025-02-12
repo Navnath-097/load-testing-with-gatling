@@ -85,3 +85,7 @@ As per following instructions I performed load testing on a web application and 
 - **Improvement Areas**:
   - Investigate **HTTP 401 errors**.
   - Optimize high-latency requests to reduce **response time spikes**.
+ 
+    
+## Gatling Result Chart
+![Image](https://github.com/user-attachments/assets/b349aaaf-4ef9-410a-8de0-6ab1cfc750ad)
